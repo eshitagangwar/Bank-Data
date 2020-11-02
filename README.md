@@ -18,7 +18,4 @@
         Sort the series in the ascending order of distance
      c.	Pick first 5 neighbors after sorting. For these neighbors, identify their target values. Take a polling and identify which species
         is having higher count. Your prediction will be that species with higher count.
-3.	In Kaggle, you have to make submission for MNIST digit classifier competition using the best model among (Decision Tree, Random Forest,
-    AdaBoost, KNN).
-    a.	Split the train data in to train1 & validate
-    b.	Build your model using train1 data. Calculate accuracy using validate data frame
+
